@@ -1,4 +1,4 @@
-pageextension 50100 PurchaseOrderExt extends "Purchase Order"
+pageextension 50100 "PurchaseOrderExt" extends "Purchase Order"
 {
     actions
     {
