@@ -1,0 +1,10 @@
+*.app
+
+*/.alcache/*
+*/.alpackages/*
+*/.vscode/rad.json
+*/.altemplates/*
+*/.snapshots/*
+*/.vscode/*
+
+!*/Isv/* #Use for app files from ISV needed for builing app
